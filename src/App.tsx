@@ -20,7 +20,7 @@ const fadeIn = {
   visible: { opacity: 1, y: 0 },
 };
 
-const Home = () => {
+const App = () => {
   return (
     <div className="min-h-screen bg-[#fff6e8]">
       <HeroSection />
